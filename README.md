@@ -61,5 +61,11 @@
 
 ## Getting Started
 
--   Create a React Repository (Use ShadCn or Material UI - To be decided).
+-   Create a React Repository Use Material UI.
 -   Backend Development Using PocketBase and JavaScript SDK.
+
+## References:
+
+-   [verify JWT Token](https://github.com/pocketbase/pocketbase/discussions/2929)
+-   [Application authentication solution](https://github.com/pocketbase/pocketbase/discussions/3088)
+-   [Website Settings collection/authMiddleware](https://github.com/pocketbase/pocketbase/discussions/2922#discussioncomment-6470104)
